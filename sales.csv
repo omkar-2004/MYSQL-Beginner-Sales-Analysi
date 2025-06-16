@@ -1,0 +1,46 @@
+﻿Sale_ID,Order_Date,Ship_Date,Region,State,City,Customer_ID,Product_Category,Sub_Category,Product_Name,Sales_Amount,Quantity,Unit_Price,Discount,Profit,Shipping_Cost,Payment_Method
+S1,050124',08-01-24,East,New York,New York City,C1001,Electronics,Smartphones,iPhone 15,999,1,999,0,299.7,15,Credit Card
+S2,07-01-24,10-01-24,Central,Texas,Austin,C1002,Furniture,Chairs,Ergonomic Office Chair,350,2,175,0.1,105,25,Debit Card
+S3,09-01-24,12-01-24,West,California,Los Angeles,C1003,Clothing,T-Shirts,Cotton T-Shirt,25,5,5,0.2,10,5,Net Banking
+S4,12-01-24,15-01-24,South,Florida,Miami,C1004,Electronics,Headphones,Noise Cancelling Headphones,200,1,200,0.05,60,10,Credit Card
+S5,15-01-24,18-01-24,East,Pennsylvania,Philadelphia,C1005,Furniture,Tables,Coffee Table,150,1,150,0.15,45,18,Debit Card
+S6,18-01-24,21-01-24,Central,Illinois,Chicago,C1006,Clothing,Jeans,Slim Fit Jeans,75,3,25,0.1,22.5,8,Net Banking
+S7,20-01-24,23-01-24,West,Washington,Seattle,C1007,Electronics,Laptops,UltraBook,1200,1,1200,0,360,20,Credit Card
+S8,23-01-24,26-01-24,South,Georgia,Atlanta,C1008,Furniture,Sofas,Two-Seater Sofa,500,1,500,0.05,150,30,Debit Card
+S9,25-01-24,28-01-24,East,Massachusetts,Boston,C1009,Clothing,Dresses,Summer Dress,40,2,20,0.15,17,7,Net Banking
+S10,28-01-24,31-01-24,Central,Ohio,Columbus,C1010,Electronics,Smartwatches,Fitness Tracker,150,3,50,0,45,9,Credit Card
+S11,30-01-24,02-02-24,West,Oregon,Portland,C1011,Furniture,Beds,Queen Size Bed,600,1,600,0.1,180,35,Debit Card
+S12,02-02-24,05-02-24,South,North Carolina,Charlotte,C1012,Clothing,Shirts,Formal Shirt,30,4,7.5,0.2,9,6,Net Banking
+S13,05-02-24,08-02-24,East,New Jersey,Newark,C1013,Electronics,Tablets,Android Tablet,300,2,150,0.05,90,12,Credit Card
+S14,07-02-24,10-02-24,Central,Michigan,Detroit,C1014,Furniture,Bookcases,Wooden Bookcase,250,1,250,0.15,75,20,Debit Card
+S15,10-02-24,13-02-24,West,Nevada,Las Vegas,C1015,Clothing,Pants,Casual Pants,50,3,16.67,0.1,13.5,7,Net Banking
+S16,13-02-24,16-02-24,South,South Carolina,Charleston,C1016,Electronics,Cameras,Digital Camera,400,1,400,0,120,14,Credit Card
+S17,15-02-24,18-02-24,East,Connecticut,Hartford,C1017,Furniture,Desks,Writing Desk,300,1,300,0.05,90,22,Debit Card
+S18,18-02-24,21-02-24,Central,Wisconsin,Milwaukee,C1018,Clothing,Skirts,A-Line Skirt,35,2,17.5,0.15,10.5,6,Net Banking
+S19,20-02-24,23-02-24,West,Arizona,Phoenix,C1019,Electronics,TVs,Smart TV,800,1,800,0,240,18,Credit Card
+S20,23-02-24,26-02-24,South,Alabama,Birmingham,C1020,Furniture,Dining Tables,Round Dining Table,450,1,450,0.1,135,28,Debit Card
+S21,25-02-24,28-02-24,East,Maryland,Baltimore,C1021,Clothing,Jackets,Leather Jacket,120,2,60,0.05,34.2,9,Net Banking
+S22,28-02-24,03-03-24,Central,Minnesota,Minneapolis,C1022,Electronics,Printers,Laser Printer,250,1,250,0.15,75,11,Credit Card
+S23,02-03-24,05-03-24,West,Colorado,Denver,C1023,Furniture,Office Chairs,Swivel Chair,200,3,66.67,0.1,54,16,Debit Card
+S24,05-03-24,08-03-24,South,Louisiana,New Orleans,C1024,Clothing,Sweaters,Wool Sweater,60,2,30,0.2,19.2,7,Net Banking
+S25,08-03-24,11-03-24,East,Virginia,Richmond,C1025,Electronics,Monitors,Curved Monitor,350,1,350,0,105,13,Credit Card
+S26,10-03-24,13-03-24,Central,Missouri,St.Louis,C1026,Furniture,Shelves,WallShelves,100,4,25,0.05,28.5,10,Debit Card
+S27,13-03-24,16-03-24,West,Utah,Salt LakeCity,C1027,Clothing,Blouses,Silk Blouse,55,2,27.5,0.1,14.85,8,Net Banking
+S28,16-03-24,19-03-24,South,Mississippi,Jackson,C1028,Electronics,Keyboards,Mechanical Keyboard,120,1,120,0.15,39,9,Credit Card
+S29,18-03-24,21-03-24,East,North Carolina,Raleigh,C1029,Furniture,Ottomans,Storage Ottoman,80,2,40,0,24,12,Debit Card
+S30,21-03-24,24-03-24,Central,Iowa,Des Moines,C1030,Clothing,Trousers,Formal Trousers,70,3,23.33,0.05,18.55,7,Net Banking
+S31,24-03-24,27-03-24,West,Idaho,Boise,C1031,Electronics,Mice,Wireless Mouse,30,5,6,0.1,13.5,5,Credit Card
+S32,26-03-24,29-03-24,South,Arkansas,Little Rock,C1032,Furniture,TV Stands,Entertainment Center,350,1,350,0.15,105,25,Debit Card
+S33,29-03-24,01-04-24,East,New Hampshire,Concord,C1033,Clothing,Socks,Cotton Socks (Pack of 6),15,10,1.5,0.2,3,4,Net Banking
+S34,01-04-24,04-04-24,Central,Nebraska,Omaha,C1034,Electronics,Speakers,Bluetooth Speaker,50,2,25,0,15,8,Credit Card
+S35,04-04-24,07-04-24,West,New Mexico,SantaFe,C1035,Furniture,Mattresses,King Size Mattress,700,1,700,0.05,210,40,Debit Card
+S36,06-04-24,09-04-24,South,Tennessee,Nashville,C1036,Clothing,Hats,Baseball Cap,20,4,5,0.1,7.2,5,Net Banking
+S37,09-04-24,12-04-24,East,Maine,Augusta,C1037,Electronics,Wearables,Smart Glasses,250,1,250,0.15,81.25,11,Credit Card
+S38,12-04-24,15-04-24,Central,Kansas,Wichita,C1038,Furniture,filing cabinets,Two-Drawer Filing Cabinet,120,2,60,0,36,15,Debit Card
+S39,14-04-24,17-04-24,West,Montana,Billings,C1039,Clothing,Scarves,Wool Scarf,45,3,15,0.05,12.83,6,Net Banking
+S40,17-04-24,20-04-24,South,Kentucky,Louisville,C1040,Electronics,Projectors,Portable Projector,300,1,300,0.1,90,12,Credit Card
+S41,20-04-24,23-04-24,East,Rhode Island,Providence,C1041,Furniture,Stools,BarStool,70,2,35,0.15,21,10,Debit Card
+S42,22-04-24,25-04-24,Central,South Dakota,SiouxFalls,C1042,Clothing,Gloves,Leather Gloves,50,4,12.5,0.2,16,7,Net Banking
+S43,25-04-24,28-04-24,West,Wyoming,Cheyenne,C1043,Electronics,Drones,Mini Drone,180,1,180,0,54,10,Credit Card
+S44,28-04-24,01-05-24,South,Oklahoma,Oklahoma City,C1044,Furniture,Coat Racks,Standing Coat Rack,90,1,90,0.05,25.65,13,Debit Card
+,,,,,,,,,,,,,,,,
